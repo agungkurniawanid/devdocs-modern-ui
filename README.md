@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
@@ -34,8 +31,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
 ### Technology
 
 ![Static Badge](https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=nextdotjs&logoColor=white&logoSize=auto) 
@@ -55,4 +50,3 @@ Dalam proyek ini, fokus utama adalah memberikan tampilan modern yang lebih estet
 - Navigasi yang ditingkatkan: Memudahkan pengguna untuk mencari dan menavigasi dokumentasi yang dibutuhkan dengan lebih efisien.
 - Tema kustomisasi: Pengguna dapat memilih tema terang dan gelap sesuai preferensi, yang dioptimalkan untuk kenyamanan saat membaca.
 - Responsif di berbagai perangkat: Tampilan yang sepenuhnya dioptimalkan untuk berbagai ukuran layar, termasuk perangkat mobile dan tablet.
->>>>>>> 971285528926f20a38e92b18ad92d21d1b649673
